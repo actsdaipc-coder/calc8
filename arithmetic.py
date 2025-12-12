@@ -1,4 +1,5 @@
 a = int(input("enter the first number"))
 b = int(input("enter the second number"))
 print("addition of 2 numbers",a+b)
-print("subtraction of 2 numbers, a-b)
+print("subtraction of 2 numbers", a-b)
+print("multiplication of 2 numbers", a*b)
